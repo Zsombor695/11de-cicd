@@ -1,0 +1,7 @@
+def divide(a, b):
+    return a / b
+
+if __name__ == "__main__":
+    print(f"5/2 = {divide(5, 2)}")
+    print(f"11/2 = {divide(11, 2)}")
+    
